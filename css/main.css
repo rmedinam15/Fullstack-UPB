@@ -1,0 +1,29 @@
+body{
+    background: gray;
+}
+
+#title{
+    color: blue;
+}
+
+.button{
+    background: wheat;
+}
+
+.paragraf_lorem{
+    background: aqua;
+    color: blueviolet;
+}
+
+.paragraf_lorem2{
+    background: blueviolet;
+    background: aqua;
+}
+
+pre{
+    color: aquamarine;
+}
+
+p{
+    border: 1px solid red;
+}
